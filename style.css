@@ -1,0 +1,14 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: skyblue;
+    border: none;
+    border-radius: 5px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  button.animate {
+    transform: scale(1.2);
+    background-color: lightgreen;
+  }
+  
